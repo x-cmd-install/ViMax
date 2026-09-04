@@ -7,7 +7,7 @@ about:
   head: 05a4894
   archived: false
   latestVersion: v1.2.0
-  collectedAt: 2026-09-04T20:01:53Z
+  collectedAt: 2026-09-04T20:42:45Z
 timeline:
   created: 2025-03-30
   lastCommit: 2026-07-29
@@ -85,5 +85,73 @@ total:
   openIssue: 32
   commit: 392
 ---
+path: /home/runner/.x-repo/github.com/HKUDS/ViMax
+collectedAt: 2026-09-04T20:42:48Z
+loc:
+  Python:
+    code: 11388
+    comments: 305
+    blanks: 2004
+    files: 92
+  Json:
+    code: 8466
+    comments: 0
+    blanks: 0
+    files: 42
+  Css:
+    code: 2577
+    comments: 0
+    blanks: 448
+    files: 1
+  Tsx:
+    code: 1856
+    comments: 5
+    blanks: 125
+    files: 4
+  TypeScript:
+    code: 1000
+    comments: 0
+    blanks: 138
+    files: 18
+  JavaScript:
+    code: 823
+    comments: 1
+    blanks: 69
+    files: 6
+  Svg:
+    code: 124
+    comments: 6
+    blanks: 10
+    files: 4
+  Bash:
+    code: 106
+    comments: 1
+    blanks: 5
+    files: 1
+  Yaml:
+    code: 104
+    comments: 34
+    blanks: 24
+    files: 5
+  Toml:
+    code: 38
+    comments: 0
+    blanks: 5
+    files: 1
+  Html:
+    code: 14
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 425
+    blanks: 236
+    files: 6
+total:
+  code: 26620
+  comments: 777
+  blanks: 3072
+  files: 181
 ---
 
