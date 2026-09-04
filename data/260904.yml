@@ -1,22 +1,24 @@
 about:
-  description: "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
+  description:
+  |
+    "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
   license: MIT
   homepage: https://arxiv.org/abs/2606.07649
   head: 05a4894
   archived: false
   latestVersion: v1.2.0
-  collectedAt: 2026-09-04T05:00:39Z
+  collectedAt: 2026-09-04T20:01:53Z
 timeline:
   created: 2025-03-30
   lastCommit: 2026-07-29
   lastRelease: 2026-07-20
 popularity:
-  star: 12249
-  watcher: 84
-  fork: 1842
+  star: 12257
+  watcher: 85
+  fork: 1841
   release: 1
   contributor: 14
-  pullRequest: 20
+  pullRequest: 34
   issue: 43
 language:
   Python: 669493
@@ -25,7 +27,7 @@ language:
   JavaScript: 36449
   Shell: 2849
   HTML: 424
-totalLine: 888076
+totalBytes: 888076
 recent:
   last30d:
     since: 2026-08-05
@@ -35,6 +37,14 @@ recent:
     closedIssue: 0
     openIssue: 2
     commit: 0
+  last60d:
+    since: 2026-07-06
+    release: 1
+    mergedPR: 1
+    openPR: 6
+    closedIssue: 0
+    openIssue: 6
+    commit: 28
   last90d:
     since: 2026-06-06
     release: 1
@@ -59,3 +69,21 @@ recent:
     closedIssue: 10
     openIssue: 31
     commit: 133
+  last720d:
+    since: 2024-09-14
+    release: 1
+    mergedPR: 14
+    openPR: 17
+    closedIssue: 11
+    openIssue: 32
+    commit: 392
+total:
+  release: 1
+  mergedPR: 14
+  openPR: 17
+  closedIssue: 11
+  openIssue: 32
+  commit: 392
+---
+---
+
