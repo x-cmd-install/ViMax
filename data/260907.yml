@@ -5,15 +5,15 @@ about:
   head: 05a4894
   archived: false
   latestVersion: "v1.2.0"
-  collectedAt: 2026-09-07T05:08:52Z
+  collectedAt: 2026-09-07T19:17:11Z
 timeline:
   created: 2025-03-30
   lastCommit: 2026-07-29
   lastRelease: 2026-07-20
 popularity:
-  star: 12284
+  star: 12287
   watcher: 86
-  fork: 1844
+  fork: 1846
   release: 1
   contributor: 14
   pullRequest: 34
@@ -84,7 +84,7 @@ total:
   commit: 392
 ---
 path: /home/runner/.x-repo/github.com/HKUDS/ViMax
-collectedAt: 2026-09-07T05:09:04Z
+collectedAt: 2026-09-07T19:17:20Z
 loc:
   Python:
     code: 11388
@@ -155,7 +155,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:09:06+00:00
+  collectedAt: 2026-09-07T19:17:26+00:00
   platform:
     darwin/arm64:
       name:  null
