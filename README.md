@@ -12,6 +12,18 @@
 x install ViMax
 ```
 
+## Code insight
+
+Total: **26,496** lines of code across **157** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 11,388 | 305 | 2,004 | 92 |
+| Json | 8,466 | 0 | 0 | 42 |
+| Css | 2,577 | 0 | 448 | 1 |
+| Tsx | 1,856 | 5 | 125 | 4 |
+| TypeScript | 1,000 | 0 | 138 | 18 |
+
 ## Source
 
 - **Upstream**: <https://github.com/HKUDS/ViMax>
@@ -25,7 +37,7 @@ x install ViMax
 
 ## Popularity
 
-- **Stars**: 12,327 · **Forks**: 1,859 · **Open issues**: 43 · **Contributors**: 14
+- **Stars**: 12,328 · **Forks**: 1,859 · **Open issues**: 43 · **Contributors**: 14
 
 ## Totals (cumulative)
 
@@ -36,20 +48,11 @@ x install ViMax
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 2 | 0 | 2 | 0 |
+| last60d | 2026-07-12 | 1 | 0 | 6 | 0 | 5 | 27 |
 | 90d | 2026-06-12 | 1 | 2 | 8 | 0 | 8 | 33 |
+| last180d | 2026-03-14 | 1 | 11 | 12 | 7 | 14 | 51 |
 | 360d | 2025-09-15 | 1 | 14 | 17 | 10 | 31 | 133 |
-
-## Code size
-
-Total: **26,496** lines of code across **157** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Python | 11,388 | 305 | 2,004 | 92 |
-| Json | 8,466 | 0 | 0 | 42 |
-| Css | 2,577 | 0 | 448 | 1 |
-| Tsx | 1,856 | 5 | 125 | 4 |
-| TypeScript | 1,000 | 0 | 138 | 18 |
+| last720d | 2024-09-20 | 1 | 14 | 17 | 11 | 32 | 392 |
 
 ## Improve this data
 
@@ -60,4 +63,4 @@ Install metadata for ViMax lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T17:05:04Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:56:17Z._
