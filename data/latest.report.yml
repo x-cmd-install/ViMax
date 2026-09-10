@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.2.0"
   latestRelease: "v1.2.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T17:04:52Z
+  collectedAt: 2026-09-10T23:56:00Z
 timeline:
   created: 2025-03-30
   lastCommit: 2026-07-29
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-20
   lastPrerelease: 
 popularity:
-  star: 12327
+  star: 12328
   watcher: 86
   fork: 1859
   release: 1
@@ -88,7 +88,7 @@ total:
   commit: 392
 ---
 path: /home/runner/.x-repo/github.com/HKUDS/ViMax
-collectedAt: 2026-09-10T17:05:00Z
+collectedAt: 2026-09-10T23:56:11Z
 loc:
   Python:
     code: 11388
