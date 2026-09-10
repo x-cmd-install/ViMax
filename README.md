@@ -22,11 +22,10 @@ x install ViMax
 
 - **Latest**: `v1.2.0` (2026-07-20)
 - **Last commit**: 2026-07-29
-- **Published**: 2026-07-20T11:57:03Z
 
 ## Popularity
 
-- **Stars**: 12,318 · **Forks**: 1,856 · **Open issues**: 43 · **Contributors**: 14
+- **Stars**: 12,327 · **Forks**: 1,859 · **Open issues**: 43 · **Contributors**: 14
 
 ## Totals (cumulative)
 
@@ -57,8 +56,8 @@ Total: **26,496** lines of code across **157** files in the top 5 languages.
 Install metadata for ViMax lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ViMax` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/ViMax.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/ViMax.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:14:46Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T17:05:04Z._
