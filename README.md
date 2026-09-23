@@ -4,7 +4,7 @@
 
 "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
 
-[![x-cmd/install — ViMax Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ViMax.svg)](https://x-cmd.com/install/ViMax)
+[![x-cmd/install — ViMax Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/ViMax.svg)](https://x-cmd.com/install/ViMax)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **26,496** lines of code across **157** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 12,442 · **Forks**: 1,876 · **Open issues**: 44 · **Contributors**: 14
+- **Stars**: 12,455 · **Forks**: 1,877 · **Open issues**: 45 · **Contributors**: 14
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 14 · **Open PRs**: 17 · **Closed issues**: 11 · **Open issues**: 33 · **Commits**: 394
+- **Releases**: 1 · **Merged PRs**: 14 · **Open PRs**: 17 · **Closed issues**: 11 · **Open issues**: 34 · **Commits**: 394
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 3 | 2 |
-| last60d | 2026-07-24 | 0 | 0 | 4 | 0 | 4 | 3 |
-| 90d | 2026-06-24 | 1 | 1 | 6 | 0 | 9 | 33 |
-| last180d | 2026-03-26 | 1 | 10 | 12 | 7 | 13 | 52 |
-| 360d | 2025-09-27 | 1 | 14 | 17 | 10 | 32 | 120 |
-| last720d | 2024-10-02 | 1 | 14 | 17 | 11 | 33 | 394 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 4 | 2 |
+| last60d | 2026-07-25 | 0 | 0 | 4 | 0 | 5 | 3 |
+| 90d | 2026-06-25 | 1 | 1 | 6 | 0 | 10 | 33 |
+| last180d | 2026-03-27 | 1 | 10 | 12 | 7 | 14 | 52 |
+| 360d | 2025-09-28 | 1 | 14 | 17 | 10 | 33 | 120 |
+| last720d | 2024-10-03 | 1 | 14 | 17 | 11 | 34 | 394 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for ViMax lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:29:10Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:26:00Z._

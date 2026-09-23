@@ -4,7 +4,7 @@
 
 "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
 
-[![x-cmd/install — ViMax Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ViMax.svg?lang=zh)](https://x-cmd.com/install/ViMax)
+[![x-cmd/install — ViMax Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/ViMax.svg?lang=zh)](https://x-cmd.com/install/ViMax)
 
 ## 安装
 
@@ -37,22 +37,22 @@ x install ViMax
 
 ## 流行度
 
-- **Star**: 12,442 · **Fork**: 1,876 · **开放 issue**: 44 · **贡献者**: 14
+- **Star**: 12,455 · **Fork**: 1,877 · **开放 issue**: 45 · **贡献者**: 14
 
 ## 累计统计
 
-- **发布数**: 1 · **已合并 PR**: 14 · **开放 PR**: 17 · **已关闭 issue**: 11 · **开放 issue**: 33 · **提交数**: 394
+- **发布数**: 1 · **已合并 PR**: 14 · **开放 PR**: 17 · **已关闭 issue**: 11 · **开放 issue**: 34 · **提交数**: 394
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 3 | 2 |
-| last60d | 2026-07-24 | 0 | 0 | 4 | 0 | 4 | 3 |
-| 90d | 2026-06-24 | 1 | 1 | 6 | 0 | 9 | 33 |
-| last180d | 2026-03-26 | 1 | 10 | 12 | 7 | 13 | 52 |
-| 360d | 2025-09-27 | 1 | 14 | 17 | 10 | 32 | 120 |
-| last720d | 2024-10-02 | 1 | 14 | 17 | 11 | 33 | 394 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 4 | 2 |
+| last60d | 2026-07-25 | 0 | 0 | 4 | 0 | 5 | 3 |
+| 90d | 2026-06-25 | 1 | 1 | 6 | 0 | 10 | 33 |
+| last180d | 2026-03-27 | 1 | 10 | 12 | 7 | 14 | 52 |
+| 360d | 2025-09-28 | 1 | 14 | 17 | 10 | 33 | 120 |
+| last720d | 2024-10-03 | 1 | 14 | 17 | 11 | 34 | 394 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ ViMax 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:29:11Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:26:01Z._
