@@ -14,11 +14,11 @@ x install ViMax
 
 ## Code insight
 
-Total: **26,496** lines of code across **157** files in the top 5 languages.
+Total: **27,048** lines of code across **159** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 11,388 | 305 | 2,004 | 92 |
+| Python | 11,934 | 306 | 2,061 | 94 |
 | Json | 8,466 | 0 | 0 | 42 |
 | Css | 2,577 | 0 | 448 | 1 |
 | Tsx | 1,856 | 5 | 125 | 4 |
@@ -33,26 +33,26 @@ Total: **26,496** lines of code across **157** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.2.0` (2026-07-20)
-- **Last commit**: 2026-09-20
+- **Last commit**: 2026-09-30
 
 ## Popularity
 
-- **Stars**: 12,530 · **Forks**: 1,893 · **Open issues**: 45 · **Contributors**: 14
+- **Stars**: 12,542 · **Forks**: 1,895 · **Open issues**: 45 · **Contributors**: 14
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 14 · **Open PRs**: 17 · **Closed issues**: 11 · **Open issues**: 34 · **Commits**: 394
+- **Releases**: 1 · **Merged PRs**: 14 · **Open PRs**: 17 · **Closed issues**: 11 · **Open issues**: 34 · **Commits**: 395
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 0 | 0 | 0 | 0 | 3 | 2 |
-| last60d | 2026-08-01 | 0 | 0 | 3 | 0 | 4 | 2 |
-| 90d | 2026-07-02 | 1 | 1 | 6 | 0 | 8 | 30 |
-| last180d | 2026-04-03 | 1 | 10 | 12 | 7 | 14 | 52 |
-| 360d | 2025-10-05 | 1 | 14 | 17 | 10 | 33 | 120 |
-| last720d | 2024-10-10 | 1 | 14 | 17 | 11 | 34 | 394 |
+| 30d | 2026-09-01 | 0 | 0 | 0 | 0 | 3 | 3 |
+| last60d | 2026-08-02 | 0 | 0 | 3 | 0 | 4 | 3 |
+| 90d | 2026-07-03 | 1 | 1 | 6 | 0 | 8 | 31 |
+| last180d | 2026-04-04 | 1 | 10 | 12 | 7 | 14 | 53 |
+| 360d | 2025-10-06 | 1 | 14 | 17 | 10 | 33 | 121 |
+| last720d | 2024-10-11 | 1 | 14 | 17 | 11 | 34 | 395 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for ViMax lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T05:59:11Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:24:51Z._
