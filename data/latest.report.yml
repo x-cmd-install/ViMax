@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.2.0"
   latestRelease: "v1.2.0"
   latestPrerelease: ""
-  collectedAt: 2026-10-29T06:24:38Z
+  collectedAt: 2026-10-30T06:18:31Z
 timeline:
   created: 2025-03-30
   lastCommit: 2026-09-30
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-07-20
   lastPrerelease: 
 popularity:
-  star: 12792
-  watcher: 83
-  fork: 1939
+  star: 12801
+  watcher: 82
+  fork: 1938
   release: 1
   contributor: 14
-  pullRequest: 38
+  pullRequest: 39
   issue: 47
 language:
   Python: 704029
@@ -32,63 +32,63 @@ language:
 totalBytes: 922612
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 0
     mergedPR: 0
-    openPR: 2
+    openPR: 3
     closedIssue: 0
     openIssue: 2
     commit: 0
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 0
     mergedPR: 0
-    openPR: 2
+    openPR: 3
+    closedIssue: 0
+    openIssue: 5
+    commit: 3
+  last90d:
+    since: 2026-08-01
+    release: 0
+    mergedPR: 0
+    openPR: 6
     closedIssue: 0
     openIssue: 6
     commit: 3
-  last90d:
-    since: 2026-07-31
-    release: 0
-    mergedPR: 0
-    openPR: 5
-    closedIssue: 0
-    openIssue: 7
-    commit: 3
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 1
     mergedPR: 10
-    openPR: 14
+    openPR: 15
     closedIssue: 7
     openIssue: 15
     commit: 53
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 1
     mergedPR: 13
-    openPR: 19
+    openPR: 20
     closedIssue: 9
     openIssue: 32
     commit: 72
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 1
     mergedPR: 14
-    openPR: 19
+    openPR: 20
     closedIssue: 11
     openIssue: 36
     commit: 395
 total:
   release: 1
   mergedPR: 14
-  openPR: 19
+  openPR: 20
   closedIssue: 11
   openIssue: 36
   commit: 395
 ---
 path: /home/runner/.x-repo/github.com/HKUDS/ViMax
-collectedAt: 2026-10-29T06:24:49Z
+collectedAt: 2026-10-30T06:18:44Z
 loc:
   Python:
     code: 11934
