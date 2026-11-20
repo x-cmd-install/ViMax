@@ -37,7 +37,7 @@ Total: **27,048** lines of code across **159** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 12,971 · **Forks**: 1,965 · **Open issues**: 47 · **Contributors**: 14
+- **Stars**: 12,977 · **Forks**: 1,969 · **Open issues**: 47 · **Contributors**: 14
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **27,048** lines of code across **159** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-09-20 | 0 | 0 | 2 | 0 | 3 | 1 |
-| 90d | 2026-08-21 | 0 | 0 | 2 | 0 | 6 | 3 |
-| last180d | 2026-05-23 | 1 | 8 | 11 | 1 | 14 | 51 |
-| 360d | 2025-11-24 | 1 | 12 | 14 | 8 | 26 | 69 |
-| last720d | 2024-11-29 | 1 | 14 | 17 | 11 | 36 | 395 |
+| 30d | 2026-10-21 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-09-21 | 0 | 0 | 2 | 0 | 3 | 0 |
+| 90d | 2026-08-22 | 0 | 0 | 2 | 0 | 6 | 0 |
+| last180d | 2026-05-24 | 1 | 8 | 11 | 1 | 14 | 0 |
+| 360d | 2025-11-25 | 1 | 12 | 14 | 8 | 26 | 0 |
+| last720d | 2024-11-30 | 1 | 14 | 17 | 11 | 36 | 395 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for ViMax lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T10:13:30Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T08:26:23Z._
