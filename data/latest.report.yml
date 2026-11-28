@@ -2,20 +2,20 @@ about:
   description: "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\""
   license: MIT
   homepage: https://arxiv.org/abs/2606.07649
-  head: fd4b72e
+  head: 01b4696
   archived: false
   latestVersion: "v1.2.0"
   latestRelease: "v1.2.0"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T08:51:42Z
+  collectedAt: 2026-11-28T08:50:47Z
 timeline:
   created: 2025-03-30
-  lastCommit: 2026-09-30
+  lastCommit: 2026-11-27
   lastVersion: 2026-07-20
   lastRelease: 2026-07-20
   lastPrerelease: 
 popularity:
-  star: 13042
+  star: 13053
   watcher: 81
   fork: 1974
   release: 1
@@ -23,83 +23,83 @@ popularity:
   pullRequest: 36
   issue: 47
 language:
-  Python: 704029
-  TypeScript: 124597
+  Python: 737652
+  TypeScript: 124680
   CSS: 54264
-  JavaScript: 36449
+  JavaScript: 36596
   Shell: 2849
   HTML: 424
-totalBytes: 922612
+totalBytes: 956465
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 0
+    commit: 3
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 0
     openPR: 2
     closedIssue: 0
     openIssue: 2
-    commit: 1
+    commit: 4
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
     mergedPR: 0
     openPR: 2
     closedIssue: 0
     openIssue: 6
-    commit: 3
+    commit: 6
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 1
-    mergedPR: 8
+    mergedPR: 6
     openPR: 11
     closedIssue: 0
     openIssue: 14
-    commit: 48
+    commit: 51
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 1
     mergedPR: 12
     openPR: 14
     closedIssue: 7
     openIssue: 26
-    commit: 67
+    commit: 70
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 1
     mergedPR: 14
     openPR: 17
     closedIssue: 11
     openIssue: 36
-    commit: 395
+    commit: 398
 total:
   release: 1
   mergedPR: 14
   openPR: 17
   closedIssue: 11
   openIssue: 36
-  commit: 395
+  commit: 398
 ---
 path: /home/runner/.x-repo/github.com/HKUDS/ViMax
-collectedAt: 2026-11-27T08:51:49Z
+collectedAt: 2026-11-28T08:50:54Z
 loc:
   Python:
-    code: 11934
-    comments: 306
-    blanks: 2061
-    files: 94
+    code: 12574
+    comments: 310
+    blanks: 2159
+    files: 100
   Json:
-    code: 8466
+    code: 8493
     comments: 0
     blanks: 0
-    files: 42
+    files: 44
   Css:
     code: 2577
     comments: 0
@@ -116,7 +116,7 @@ loc:
     blanks: 138
     files: 18
   JavaScript:
-    code: 823
+    code: 824
     comments: 1
     blanks: 69
     files: 6
@@ -136,9 +136,9 @@ loc:
     blanks: 5
     files: 1
   Toml:
-    code: 38
+    code: 85
     comments: 0
-    blanks: 5
+    blanks: 14
     files: 1
   Html:
     code: 14
@@ -147,14 +147,14 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 437
-    blanks: 240
-    files: 6
+    comments: 495
+    blanks: 276
+    files: 9
 total:
-  code: 27176
-  comments: 792
-  blanks: 3136
-  files: 183
+  code: 27912
+  comments: 854
+  blanks: 3279
+  files: 194
 ---
 
 ---
